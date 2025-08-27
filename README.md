@@ -56,7 +56,7 @@ Before running any script, ensure you have:
 
 | Component                 | Details                                                    |
 |---------------------------|------------------------------------------------------------|
-| Python                    | `>= 3.7`                                                   |
+| Python                    | `>= 3.9`                                                   |
 | Google Gemini API Key     | Obtain from Google Cloud Console                           |
 | Environment Variable (opt)| `export GEMINI_API_KEY="YOUR_GOOGLE_API_KEY"`              |
 
